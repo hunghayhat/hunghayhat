@@ -12,21 +12,6 @@
           width: 100%;
           height: 750px;
           background-image: url('https://i.pinimg.com/564x/58/40/76/58407642f4ad9dfc6b3fad2499ea395e.jpg');
-          background-size: cover;
-          background-repeat: no-repeat;
-          border: 2px solid #000;
-          border-radius: 50%;
-          width: 250px;
-          height: 250px;
-          box-shadow: 0 0 25px RGBA(255,255,255, 0.25),
-                      -8px -8px 15px #000 inset,
-                      2px 2px 25px #000 inset,
-                      -45px -45px 25px RGBA(0,0,0, 0.5) inset, 
-                      25px 25px 45px RGBA(0,0,0, 0.45) inset;
-          position: absolute;
-          top: 50%;
-          left: 50%;
-          transform: translate(-50%, -50%) rotateX(5deg) rotateY(5deg) rotateZ(5deg);
         }
       </style>
 
