@@ -1,45 +1,39 @@
-# 👋 Hi there!  
+# 👋 初めまして!  
 
-I'm **Ngô Thức**, a curious explorer in the tech world! 🌟  
-🔍 Normally, I don't know how to code, but occasionally, I do!
-
----
-
-## 💼 About Me  
-- 🎓 I'm a **4th-year student at Hanoi University of Science and Technology**.  
-- 💻 Currently, I'm an **intern** focusing on **Laravel** and **SpringBoot**.  
-- 🚀 Passionate about web development and exploring new technologies.  
-- 🌱 Always learning and growing every day.
+フンと申します！ 
+🔍 日本の文化に興味があるし、特に空手が大好きです!
 
 ---
 
-## 💻 Skills & Tools  
+## 💼 自分のことについて  
+- 🎓  **ハノイ工科大学の大学生**.  
+- 💻 現在、「Dimage Share」会社で **Laravel**と**SpringBoot**をはじめとしてインターンシップしています。.  
+- ⛩️ 日本語を学ぶのも好きで、JLPT N2の資格を持っています。 
+- 🌱 将来、シニアBrSEになりたい!
 
-- **Languages**:  
-  - 🖥️ **C**, 🔧 **C++**, 🐘 **PHP**, ☕ **Java**, ✨ **JavaScript**, ⚙️ **Assembly** (sometimes, and I hope never again 😅).  
+---
 
-- **Frameworks**:  
+## 💻 スキル & ツール  
+
+- **IT言語**:  
+  - 🖥️ **C**, 🔧 **C++**, 🐘 **PHP**, ☕ **Java**, ✨ **JavaScript**
+
+- **フレームワーク**:  
   - 🚀 Laravel  
   - 🌱 SpringBoot  
 
-- **Tools**:  
+- **ツール**:  
   - 🛠️ Git  
   - 💡 VS Code  
-  - ☕ Coffee (essential for productivity).  
+  - ☕ コーヒー（効果的のため:D）.  
 
 ---
 
-## 📫 Let's connect!  
-- 📧 **Email**: [ngothuc0704@gmail.com](mailto:ngothuc0704@gmail.com)  
-- 🐙 **GitHub**: [github.com/ngothuc](https://github.com/ngothuc)  
-- 💬 Feel free to reach out or collaborate on a project!
+## 📫 連絡先
+- 📧 **メール**: [diegocoshung19@gmail.com](mailto:diegocoshung19@gmail.com)  
+- 💬 ご協力を検討いただける場合は、ぜひご一報ください! 😙
 
 ---
 
-### ✨ Thanks for stopping by!  
-Feel free to explore my repositories or drop a message. 😊  
 
-<!---
-ngothuc/ngothuc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
